@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Csvmax
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=parser
+comment2.target=org.apache.commons.csv.CSVRecord\ csvMax(org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=org.apache.commons.csv.CSVRecord\ hottestInManyDays()
+comment4.params=currRecord\ largestSoFar
+comment4.target=org.apache.commons.csv.CSVRecord\ getLargestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment5.params=
+comment5.target=void\ testHostesDay()
+numComments=6

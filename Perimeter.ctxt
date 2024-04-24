@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Perimeter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testPerimeter()
+comment3.params=shape
+comment3.target=double\ getPerimeter(edu.duke.Shape)
+comment4.params=sum\ totalPoints
+comment4.target=double\ getAverage(double,\ double)
+comment5.params=s
+comment5.target=double\ getTotalPoints(edu.duke.Shape)
+comment6.params=s
+comment6.target=double\ getLargestSide(edu.duke.Shape)
+numComments=7

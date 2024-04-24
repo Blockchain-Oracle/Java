@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Part3
+comment1.params=sr
+comment1.target=void\ processGenes(edu.duke.StorageResource)
+comment2.params=dna
+comment2.target=boolean\ isLongerThan9(java.lang.String)
+comment3.params=dna
+comment3.target=boolean\ isCgRatioHigh(java.lang.String)
+comment4.params=dna
+comment4.target=java.lang.String\ isLongest(java.lang.String)
+numComments=5

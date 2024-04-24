@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=dna
+comment1.target=float\ tgRatio(java.lang.String)
+comment2.params=dna
+comment2.target=int\ countCG(java.lang.String)
+numComments=3
